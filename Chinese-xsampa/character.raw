@@ -1,0 +1,398 @@
+a 0 a
+ai 0 a :\i
+an 0 a :n
+ang 0 A N
+ao 0 AU
+ba 1 p a
+bai 1 p a :\i
+ban 1 p a :n
+bang 1 p A N
+bao 1 p AU
+bei 1 p e :\i
+ben 1 p @ :n
+beng 1 p @ N
+bi 1 p i
+bian 1 p iE :n
+biao 1 p iAU
+bie 1 p ie
+bin 1 p i :n
+bing 1 p i N
+bo 1 p uo
+bu 1 p u
+ca 1 tsh a
+cai 1 tsh a :\i
+can 1 tsh a :n
+cang 1 tsh A N
+cao 1 tsh AU
+ce 1 tsh 7
+cen 1 tsh @ :n
+ceng 1 tsh @ N
+cha 1 ts`h a
+chai 1 ts`h a :\i
+chan 1 ts`h a :n
+chang 1 ts`h A N
+chao 1 ts`h AU
+che 1 ts`h 7
+chen 1 ts`h @ :n
+cheng 1 ts`h @ N
+chi 1 ts`h i`
+chong 1 ts`h U N
+chou 1 ts`h @U
+chu 1 ts`h u
+chuai 1 ts`h ua :\i
+chuan 1 ts`h ua :n
+chuang 1 ts`h uA N
+chui 1 ts`h ue :\i
+chun 1 ts`h u@ :n
+chuo 1 ts`h uo
+ci 1 tsh i\
+cong 1 tsh U N
+cou 1 tsh @U
+cu 1 tsh u
+cuan 1 tsh ua :n
+cui 1 tsh ue :\i
+cun 1 tsh u@ :n
+cuo 1 tsh uo
+da 1 t a
+dai 1 t a :\i
+dan 1 t a :n
+dang 1 t A N
+dao 1 t AU
+de 1 t 7
+deng 1 t @ N
+di 1 t i
+dian 1 t iE :n
+diao 1 t iAU
+die 1 t ie
+ding 1 t i N
+diu 1 t i@U
+dong 1 t U N
+dou 1 t @U
+du 1 t u
+duan 1 t ua :n
+dui 1 t ue :\i
+dun 1 t u@ :n
+duo 1 t uo
+e 0 7
+en 0 @ :n
+er 0 a r\`
+fa 1 f a
+fan 1 f a :n
+fang 1 f A N
+fei 1 f e :\i
+fen 1 f @ :n
+feng 1 f @ N
+fou 1 f @U
+fu 1 f u
+ga 1 k a
+gai 1 k a :\i
+gan 1 k a :n
+gang 1 k A N
+gao 1 k AU
+ge 1 k 7
+gei 1 k e :\i
+gen 1 k @ :n
+geng 1 k @ N
+gong 1 k U N
+gou 1 k @U
+gu 1 k u
+gua 1 k ua
+guai 1 k ua :\i
+guan 1 k ua :n
+guang 1 k uA N
+gui 1 k ue :\i
+gun 1 k u@ :n
+guo 1 k uo
+ha 1 x a
+hai 1 x a :\i
+han 1 x a :n
+hang 1 x A N
+hao 1 x AU
+he 1 x 7
+hei 1 x e :\i
+hen 1 x @ :n
+heng 1 x @ N
+hong 1 x U N
+hou 1 x @U
+hu 1 x u
+hua 1 x ua
+huai 1 x ua :\i
+huan 1 x ua :n
+huang 1 x uA N
+hui 1 x ue :\i
+hun 1 x u@ :n
+huo 1 x uo
+ji 1 ts\ i
+jia 1 ts\ ia
+jian 1 ts\ iE :n
+jiang 1 ts\ iA N
+jiao 1 ts\ iAU
+jie 1 ts\ ie
+jin 1 ts\ i :n
+jing 1 ts\ i N
+jiong 1 ts\ iU N
+jiu 1 ts\ i@U
+ju 1 ts\ y
+juan 1 ts\ y{ :n
+jue 1 ts\ yE
+jun 1 ts\ yE :n
+ka 1 kh a
+kai 1 kh a :\i
+kan 1 kh a :n
+kang 1 kh A N
+kao 1 kh AU
+ke 1 kh 7
+ken 1 kh @ :n
+keng 1 kh @ N
+kong 1 kh U N
+kou 1 kh @U
+ku 1 kh u
+kua 1 kh ua
+kuai 1 kh ua :\i
+kuan 1 kh ua :n
+kuang 1 kh uA N
+kui 1 kh ue :\i
+kun 1 kh u@ :n
+kuo 1 kh uo
+la 1 l a
+lai 1 l a :\i
+lan 1 l a :n
+lang 1 l A N
+lao 1 l AU
+le 1 l 7
+lei 1 l e :\i
+leng 1 l @ N
+li 1 l i
+lia 1 l ia
+lian 1 l iE :n
+liang 1 l iA N
+liao 1 l iAU
+lie 1 l ie
+lin 1 l i :n
+ling 1 l i N
+liu 1 l i@U
+long 1 l U N
+lou 1 l @U
+lu 1 l u
+luan 1 l ua :n
+lun 1 l u@ :n
+luo 1 l uo
+lv 1 l y
+lve 1 l yE
+ma 1 m a
+mai 1 m a :\i
+man 1 m a :n
+mang 1 m A N
+mao 1 m AU
+me 1 m 7
+mei 1 m e :\i
+men 1 m @ :n
+meng 1 m @ N
+mi 1 m i
+mian 1 m iE :n
+miao 1 m iAU
+mie 1 m ie
+min 1 m i :n
+ming 1 m i N
+miu 1 m i@U
+mo 1 m uo
+mou 1 m @U
+mu 1 m u
+na 1 n a
+nai 1 n a :\i
+nan 1 n a :n
+nang 1 n A N
+nao 1 n AU
+ne 1 n 7
+nei 1 n e :\i
+nen 1 n @ :n
+neng 1 n @ N
+ni 1 n i
+nian 1 n iE :n
+niang 1 n iA N
+niao 1 n iAU
+nie 1 n ie
+nin 1 n i :n
+ning 1 n i N
+niu 1 n i@U
+nong 1 n U N
+nou 1 n @U
+nu 1 n u
+nuan 1 n ua :n
+nuo 1 n uo
+nv 1 n y
+nve 1 n yE
+o 0 o
+ou 0 @U
+pa 1 ph a
+pai 1 ph a :\i
+pan 1 ph a :n
+pang 1 ph A N
+pao 1 ph AU
+pei 1 ph e :\i
+pen 1 ph @ :n
+peng 1 ph @ N
+pi 1 ph i
+pian 1 ph iE :n
+piao 1 ph iAU
+pie 1 ph ie
+pin 1 ph i :n
+ping 1 ph i N
+po 1 ph uo
+pou 1 ph @U
+pu 1 ph u
+qi 1 ts\h i
+qia 1 ts\h ia
+qian 1 ts\h iE :n
+qiang 1 ts\h iA N
+qiao 1 ts\h iAU
+qie 1 ts\h ie
+qin 1 ts\h i :n
+qing 1 ts\h i N
+qiong 1 ts\h iU N
+qiu 1 ts\h i@U
+qu 1 ts\h y
+quan 1 ts\h y{ :n
+que 1 ts\h yE
+qun 1 ts\h yE :n
+ran 1 z` a :n
+rang 1 z` A N
+rao 1 z` AU
+re 1 z` 7
+ren 1 z` @ :n
+reng 1 z` @ N
+ri 1 z` i`
+rong 1 z` U N
+rou 1 z` @U
+ru 1 z` u
+ruan 1 z` ua :n
+rui 1 z` ue :\i
+run 1 z` u@ :n
+ruo 1 z` uo
+sa 1 s a
+sai 1 s a :\i
+san 1 s a :n
+sang 1 s A N
+sao 1 s AU
+se 1 s 7
+sen 1 s @ :n
+seng 1 s @ N
+sha 1 s` a
+shai 1 s` a :\i
+shan 1 s` a :n
+shang 1 s` A N
+shao 1 s` AU
+she 1 s` 7
+shen 1 s` @ :n
+sheng 1 s` @ N
+shi 1 s` i`
+shou 1 s` @U
+shu 1 s` u
+shua 1 s` ua
+shuai 1 s` ua :\i
+shuan 1 s` ua :n
+shuang 1 s` uA N
+shui 1 s` ue :\i
+shun 1 s` u@ :n
+shuo 1 s` uo
+si 1 s i\
+song 1 s U N
+sou 1 s @U
+su 1 s u
+suan 1 s ua :n
+sui 1 s ue :\i
+sun 1 s u@ :n
+suo 1 s uo
+ta 1 th a
+tai 1 th a :\i
+tan 1 th a :n
+tang 1 th A N
+tao 1 th AU
+te 1 th 7
+teng 1 th @ N
+ti 1 th i
+tian 1 th iE :n
+tiao 1 th iAU
+tie 1 th ie
+ting 1 th i N
+tong 1 th U N
+tou 1 th @U
+tu 1 th u
+tuan 1 th ua :n
+tui 1 th ue :\i
+tun 1 th u@ :n
+tuo 1 th uo
+wa 1 w ua
+wai 1 w ua :\i
+wan 1 w ua :n
+wang 1 w uA N
+wei 1 w ue :\i
+wen 1 w u@ :n
+weng 1 w u@ N
+wo 1 w uo
+wu 0 u
+xi 1 s\ i
+xia 1 s\ ia
+xian 1 s\ iE :n
+xiang 1 s\ iA N
+xiao 1 s\ iAU
+xie 1 s\ ie
+xin 1 s\ i :n
+xing 1 s\ i N
+xiong 1 s\ iU N
+xiu 1 s\ i@U
+xu 1 s\ y
+xuan 1 s\ y{ :n
+xue 1 s\ yE
+xun 1 s\ yE :n
+ya 1 j ia
+yan 1 j iE :n
+yang 1 j iA N
+yao 1 j iAU
+ye 1 j ie
+yi 0 i
+yin 1 j i :n
+ying 1 j i N
+yo 1 j iAU
+yong 1 j iU N
+you 1 j i@U
+yu 0 y
+yuan 1 j y{ :n
+yue 1 j yE
+yun 1 j yE :n
+za 1 ts a
+zai 1 ts a :\i
+zan 1 ts a :n
+zang 1 ts A N
+zao 1 ts AU
+ze 1 ts 7
+zei 1 ts e :\i
+zen 1 ts @ :n
+zeng 1 ts @ N
+zha 1 ts` a
+zhai 1 ts` a :\i
+zhan 1 ts` a :n
+zhang 1 ts` A N
+zhao 1 ts` AU
+zhe 1 ts` 7
+zhen 1 ts` @ :n
+zheng 1 ts` @ N
+zhi 1 ts` i`
+zhong 1 ts` U N
+zhou 1 ts` @U
+zhu 1 ts` u
+zhua 1 ts` ua
+zhuai 1 ts` ua :\i
+zhuan 1 ts` ua :n
+zhuang 1 ts` uA N
+zhui 1 ts` ue :\i
+zhun 1 ts` u@ :n
+zhuo 1 ts` uo
+zi 1 ts i\
+zong 1 ts U N
+zou 1 ts @U
+zu 1 ts u
+zuan 1 ts ua :n
+zui 1 ts ue :\i
+zun 1 ts u@ :n
+zuo 1 ts uo

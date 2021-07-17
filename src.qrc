@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/source">
+        <file>wqy-microhei.ttc</file>
+        <file>dics.txt</file>
+        <file>LOGO.png</file>
+    </qresource>
+    <qresource prefix="/dics">
+        <file>Chinese-xsampa/character.raw</file>
+        <file>Chinese-xsampa/dictionary.json</file>
+        <file>Chinese-xsampa/translate.raw</file>
+        <file>Japanese-romaji/character.raw</file>
+        <file>Japanese-romaji/dictionary.json</file>
+        <file>Japanese-romaji/translate.raw</file>
+    </qresource>
+</RCC>
