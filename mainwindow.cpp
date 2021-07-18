@@ -6,7 +6,7 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    ui->about->setText("Vogen采样歌词处理工具 版本"+VL_Version+" -暂不支持多音字，需手动修改");
+    ui->about->setText("Vogen采样歌词处理工具 版本"+VL_Version+"\n暂不支持多音字，需手动修改");
     ui->Buttom->setText("Vogen采样歌词处理工具 版本"+VL_Version+"\n©2021 無常.保留所有权利.\nQt版本："+QString(qVersion())+" 编译时间："+QString(__DATE__)+" "+QString(__TIME__));
     this->solveDictionaryList();
 }
